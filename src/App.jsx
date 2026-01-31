@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import Home from "./Home";
-import About from "./aboutme";
+import About from "./Aboutme";
 import Skills from "./Skills";
 import Project from "./Project"
 

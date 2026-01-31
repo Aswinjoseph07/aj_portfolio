@@ -1,5 +1,5 @@
 import "./App.css"
-function aboutme(){
+function Aboutme(){
     return(
         <div className=" bg-dark text-white vh-100 position-relative border border-danger mt-2">
             <h1 className="a position-absolute translate-middle ms-5 ps-5">ABOUT ME</h1>
@@ -11,4 +11,4 @@ function aboutme(){
     )
 }
 
-export default aboutme;
+export default Aboutme;
