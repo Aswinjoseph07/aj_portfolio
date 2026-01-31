@@ -11,4 +11,4 @@ function aboutme(){
     )
 }
 
-export default aboutme
+export default aboutme;
