@@ -1,7 +1,8 @@
 import "./App.css"
+import "./index.css";
 function Skills(){
      return(
-        <div className="bg-dark text-white vh-100 position-relative border border-danger mt-2">
+        <div className="bg-dark text-white vh-100 vw-100 position-relative border border-danger mt-2">
               <h1 className="position-absolute start-50 end-50 translate-middle-x mt-5 w-25">Skills</h1>
               <div className="">
                 <img className="html" src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="">

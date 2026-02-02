@@ -1,4 +1,5 @@
 import { useRef } from "react";
+import "./index.css";
 import Home from "./Home";
 import About from "./Aboutme";
 import Skills from "./Skills";

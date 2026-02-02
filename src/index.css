@@ -1,0 +1,96 @@
+@media (max-width: 768px) {
+.pr{
+    position:static;
+    margin-top: 220px;
+    margin-left: 100px;
+}
+.name1{
+    margin-bottom: 300px;
+}
+.d-flex{
+     flex-direction: row;
+    text-align: center;
+   
+}
+.ph{
+    width: 50px;
+    height: 50px;
+}
+img.pg{
+    width:50px;
+    height: 50px;
+} 
+.a{
+    position: static;
+   margin-bottom: 160px;
+   
+}
+.txt{
+    position: static;
+    margin-bottom: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+.html{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 18%;
+}
+.css{
+     width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 30%;
+    left: 36%;
+}
+.js{
+      width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 32%;
+    left: 54%;
+}
+.react{
+     width: 95px;
+    height: 95px;
+    position: absolute;
+    top: 32%;
+    left: 72%;
+}
+.java{
+     width: 125px;
+    height: 125px;
+    position: absolute;
+    top: 57%;
+    left: 25%;
+}
+.spring{
+      width: 85px;
+    height: 80px;
+    position: absolute;
+    top: 62%;
+    left: 45%;
+}
+.mysql{
+      width:90px;
+    height: 90px;
+    position: absolute;
+    top: 62%;
+    left: 64%;
+}
+.calsi{
+    background-color: cornflowerblue;
+    position: static;
+    margin-bottom: 250px;
+   
+}
+.insta{
+    width: 18rem;
+    background-color: cornflowerblue;
+    position: static;
+    margin-top: 300px;
+   
+}
+}

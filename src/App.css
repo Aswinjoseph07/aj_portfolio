@@ -13,12 +13,12 @@ img.pg{
 } 
 .a{
     position: absolute;
-    top: 15%;
-    left: 8%;
+    bottom: 75%;
+
 }
 .txt{
     position: absolute;
-    top: 30%;
+    bottom: 20%;
     left: 12%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: x-large;
@@ -76,13 +76,13 @@ img.pg{
     width: 18rem;
     background-color: cornflowerblue;
     position: absolute;
-    top: 25%;
+    bottom: 25%;
     left: 15%;
 }
 .insta{
     width: 18rem;
     background-color: cornflowerblue;
     position: absolute;
-    top: 25%;
-    left: 55%;
+    top: 20%;
+    right: 15%;
 }
