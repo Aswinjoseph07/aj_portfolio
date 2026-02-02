@@ -23,55 +23,28 @@ img.pg{
     font-family: Arial, Helvetica, sans-serif;
     font-size: x-large;
 }
-.html{
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 30%;
-    left: 18%;
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  margin-top: 80px;
+  padding: 0 60px;
 }
-.css{
-     width: 110px;
-    height: 110px;
-    position: absolute;
-    top: 30%;
-    left: 36%;
+
+.skill {
+  text-align: center;
 }
-.js{
-      width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 32%;
-    left: 54%;
+
+.skill img {
+  width: 100px;
+  height: 100px;
 }
-.react{
-     width: 95px;
-    height: 95px;
-    position: absolute;
-    top: 32%;
-    left: 72%;
+
+.skill h3 {
+  margin-top: 10px;
 }
-.java{
-     width: 125px;
-    height: 125px;
-    position: absolute;
-    top: 57%;
-    left: 25%;
-}
-.spring{
-      width: 85px;
-    height: 80px;
-    position: absolute;
-    top: 62%;
-    left: 45%;
-}
-.mysql{
-      width:90px;
-    height: 90px;
-    position: absolute;
-    top: 62%;
-    left: 64%;
-}
+
+
 .calsi{
     width: 18rem;
     background-color: cornflowerblue;
