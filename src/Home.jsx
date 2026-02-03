@@ -2,7 +2,7 @@ import "./App.css";
 import "./index.css";
 function Home() {
   return (
-    <div className="bg-dark text-white min-vh-100 w-100 position-relative  border border-danger">
+    <div className="bg-dark text-white min-vh-100 w-100 position-relative">
       
       <div className="pr">
         <img src="aswin.jpeg" className="rounded-circle w-75 h-75" alt="profile" />

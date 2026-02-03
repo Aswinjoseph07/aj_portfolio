@@ -3,8 +3,8 @@ import "./index.css";
 
 function Skills() {
   return (
-    <div className="sk bg-dark text-white min-vh-100 w-100 border border-danger mt-2">
-      <h1 className="text-center mt-5">Skills</h1>
+    <div className="sk bg-dark text-white min-vh-100 w-100 ">
+      <h1 className="text-center">Skills</h1>
 
       <div className="skills-grid">
         <div className="skill">
