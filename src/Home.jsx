@@ -2,7 +2,7 @@ import "./App.css";
 import "./index.css";
 function Home() {
   return (
-    <div className="bg-dark text-white min-vh-100 w-100 position-relative">
+    <div className="bg-dark text-white  w-100 position-relative">
       
       <div className="pr">
         <img src="aswin.jpeg" className="rounded-circle w-75 h-75" alt="profile" />
@@ -13,7 +13,7 @@ function Home() {
         <h2 className="ms-3">Aswin Joseph A</h2>
         <h3 className="ms-2">Full Stack Developer</h3>
 
-        <div className="mt-3">
+        <div className="">
           <a
             href="https://www.linkedin.com/in/aswinjoseph07/"
             target="_blank"

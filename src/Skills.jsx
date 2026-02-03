@@ -3,7 +3,7 @@ import "./index.css";
 
 function Skills() {
   return (
-    <div className="sk bg-dark text-white min-vh-100 w-100 ">
+    <div className="sk bg-dark text-white w-100 position-relative ">
       <h1 className="text-center">Skills</h1>
 
       <div className="skills-grid">

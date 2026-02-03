@@ -88,6 +88,19 @@
  section {
     scroll-margin-top: 70px;
   }
+  div.bg-dark {
+    min-height: auto;
+    height: auto;
+    
+  }
 
+  /* Disable absolute positioning on mobile */
+
+  .name1,
+  button,
+  .html, .css, .js, .react,
+  .java, .spring, .mysql {
+    position: static !important;
+  }
 
 }
