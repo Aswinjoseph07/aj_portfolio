@@ -1,5 +1,6 @@
 div.bg-dark{
-    min-height: 100vh;
+    min-height: 700px;
+    padding: 80px 0;
 }
 
 .pr{
@@ -51,15 +52,16 @@ img.pg{
 
 .calsi{
     width: 18rem;
-    background-color: cornflowerblue;
-    position: absolute;
-    bottom: 25%;
-    left: 15%;
+    background-color: aquamarine;
+   margin-top: 100px;
 }
 .insta{
     width: 18rem;
-    background-color: cornflowerblue;
-    position: absolute;
-    top: 20%;
-    right: 15%;
+   background-color: aquamarine;
+    margin-top: 100px;
+}
+.pro{
+display: flex;
+gap: 100px;
+justify-content: center;
 }

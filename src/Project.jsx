@@ -4,6 +4,7 @@ function Project(){
     return(
         <div className="bg-dark text-white w-100 position-relative">
             <h1 className="position-absolute start-50 end-50 w-25 m-3 translate-middle-x">PROJECT</h1>
+            <div className="pro">
             <div className="calsi card border border-danger border-2 rounded-3">
                 <img className="rounded-top" src="/Screenshot 2026-01-26 200254.png" alt=""></img>
                 <div className="card-body">
@@ -21,6 +22,7 @@ function Project(){
                     <p className="card-text">The project is created using react js in my learning period 
                         and temporary backend as json file inspired by Instagram web page design.</p> 
                 </div>
+            </div>
             </div>
         </div>
     )
