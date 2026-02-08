@@ -4,7 +4,7 @@
     position: static;
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 170px;
 
   }
 
@@ -22,6 +22,11 @@
   .name1 h2,
   .name1 h3 {
     margin-left: 0 !important;
+  }
+  .bt{
+    position: static !important;
+    margin-top: 5px;
+    margin-left: 2px;
   }
 
   .name1 img {
