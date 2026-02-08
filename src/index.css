@@ -4,13 +4,13 @@
     position: static;
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 150px;
 
   }
 
   .pr img {
-    width: 160px;
-    height: 160px;
+    width: 120px;
+    height: 120px;
   }
 
   .name1 {

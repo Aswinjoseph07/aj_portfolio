@@ -8,7 +8,7 @@ function Home() {
         <img src="aswin.jpeg" className="rounded-circle w-75 h-75" alt="profile" />
       </div>
 
-      <div className="name1" style={{position:"absolute",top:"30%" ,left:"15%"}}>
+      <div className="name1" style={{position:"absolute",top:"25%" ,left:"15%"}}>
         <h3>I'm</h3>
         <h2 className="ms-3">Aswin Joseph A</h2>
         <h3 className="ms-2">Full Stack Developer</h3>
@@ -53,7 +53,7 @@ function Home() {
         <div>
         <a href="/ASWIN JOSEPH A (resume).pdf" download >
        <button className="btn btn-outline-success" 
-        style={{position:"absolute",top:"65%" ,left:"18%"}}><i className="bi bi-download"></i>RESUME</button></a>
+        style={{position:"absolute",top:"52%" ,left:"18%"}}>RESUME</button></a>
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ div.bg-dark{
 
 .pr{
     position:absolute;
-    top:25%;
+    top:17%;
     right:10%;
 }
 .ph{
@@ -40,24 +40,20 @@ img.pg{
   text-align: center;
 }
 
-.skill img {
-  width: 100px;
-  height: 100px;
-}
 
 .skill h3 {
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 
 .calsi{
     width: 18rem;
-    background-color: aquamarine;
+    background-color: cornflowerblue;
    margin-top: 100px;
 }
 .insta{
     width: 18rem;
-   background-color: aquamarine;
+   background-color: cornflowerblue;
     margin-top: 100px;
 }
 .pro{
