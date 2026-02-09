@@ -1,6 +1,6 @@
 div.bg-dark{
     min-height: 700px;
-    padding: 80px 0;
+    
 }
 
 .pr{
@@ -16,48 +16,8 @@ img.pg{
     width:50px;
     height: 50px;
 } 
-.a{
-    position: absolute;
-    bottom: 75%;
-
-}
-.txt{
-    position: absolute;
-    bottom: 20%;
-    left: 12%;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: x-large;
-}
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 40px;
-  
-  padding: 0 60px;
-}
-
-.skill {
-  text-align: center;
-}
 
 
-.skill h3 {
-  margin-top: 30px;
-}
 
 
-.calsi{
-    width: 18rem;
-    background-color: cornflowerblue;
-   margin-top: 100px;
-}
-.insta{
-    width: 18rem;
-   background-color: cornflowerblue;
-    margin-top: 100px;
-}
-.pro{
-display: flex;
-gap: 100px;
-justify-content: center;
-}
+

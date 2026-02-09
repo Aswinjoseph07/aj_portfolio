@@ -3,43 +3,49 @@ import "./index.css";
 
 function Skills() {
   return (
-    <div className="sk bg-dark text-white w-100 position-relative ">
-      <h1 className="text-center">Skills</h1>
+    <div className="sk bg-dark text-white py-5">
+      <h1 className="text-center mb-5">Skills</h1>
 
-      <div className="skills-grid">
-        <div className="skill">
-          <h3 className="border border-info p-3 rounded">HTML</h3>
-        </div>
+      <div className="container-fluid text-center">
+        <div className="row justify-content-center g-4">
 
-        <div className="skill"> 
-          <h3 className="border border-info p-3 rounded">CSS</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">HTML</div>
+          </div>
 
-        <div className="skill">   
-          <h3 className="border border-info p-3 rounded">JavaScript</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">CSS</div>
+          </div>
 
-        <div className="skill">
-            <h3 className="border border-info p-3 rounded">React</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">JavaScript</div>
+          </div>
 
-        <div className="skill">
-          <h3 className="border border-info p-3 rounded">Java</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">React</div>
+          </div>
 
-        <div className="skill">
-          <h3 className="border border-info p-3 rounded">Spring Boot</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">Java</div>
+          </div>
 
-        <div className="skill">
-          <h3 className="border border-info p-3 rounded">MySQL</h3>
-        </div>
-          <div className="skill">
-          <h3 className="border border-info p-3 rounded">Github</h3>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">Spring Boot</div>
+          </div>
+
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">MySQL</div>
+          </div>
+
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">GitHub</div>
+          </div>
+
         </div>
       </div>
     </div>
   );
 }
+
 
 export default Skills;
