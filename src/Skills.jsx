@@ -3,47 +3,49 @@ import "./index.css";
 
 function Skills() {
   return (
-    <div className="sk bg-dark text-white w-100 position-relative ">
-      <h1 className="text-center">Skills</h1>
+    <div className=" bg-dark text-white w-100  py-5">
+      <h1 className="text-center mb-5">Skills</h1>
 
-      <div className="skills-grid">
-        <div className="skill">
-          <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" alt="HTML" />
-          <h3>HTML</h3>
-        </div>
+      <div className="container-fluid text-center">
+        <div className="row justify-content-center g-4">
 
-        <div className="skill">
-          <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css3-3d-icon-png-download-3640300.png" alt="CSS" />
-          <h3>CSS</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">HTML</div>
+          </div>
 
-        <div className="skill">
-          <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" />
-          <h3>JavaScript</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">CSS</div>
+          </div>
 
-        <div className="skill">
-          <img src="https://www.pngall.com/wp-content/uploads/15/React-Logo-PNG.png" alt="React" />
-          <h3>React</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">JavaScript</div>
+          </div>
 
-        <div className="skill">
-          <img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/150/small_2x/java-programming-language-java-logo-free-png.png" alt="Java" />
-          <h3>Java</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">React</div>
+          </div>
 
-        <div className="skill">
-          <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" />
-          <h3>Spring Boot</h3>
-        </div>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">Java</div>
+          </div>
 
-        <div className="skill">
-          <img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" />
-          <h3>MySQL</h3>
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">Spring Boot</div>
+          </div>
+
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">MySQL</div>
+          </div>
+
+          <div className="col-6 col-md-4 col-lg-3 col-xl-3">
+            <div className="h3 border border-info rounded p-3">GitHub</div>
+          </div>
+
         </div>
       </div>
     </div>
   );
 }
+
 
 export default Skills;
