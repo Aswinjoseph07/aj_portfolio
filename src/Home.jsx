@@ -3,22 +3,12 @@ import "./index.css";
 
 function Home() {
   return (
-    <div className="bg-dark text-white py-5">
+    <div className="bg-dark text-white w-100 py-5">
       <div className="container">
-        <div className="row align-items-center justify-content-center g-5 py-5 px-5">
-
-          {/* Profile Image */}
-          <div className="col-12 col-md-5 text-center mb-4 mb-md-0">
-            <img
-              src="aswin.jpeg"
-              className="rounded-circle img-fluid"
-              style={{ maxWidth: "250px" }}
-              alt="profile"
-            />
-          </div>
+        <div className="row align-items-center justify-content-center py-5 ">
 
           {/* Text Content */}
-          <div className="col-12 col-md-7 text-center text-md-start">
+          <div className="col-12 col-md-4 text-center text-md-start">
             <h3>I'm</h3>
             <h2 className="fw-bolder">Aswin Joseph A</h2>
             <h4 className="mb-3">Full Stack Developer</h4>
@@ -71,7 +61,15 @@ function Home() {
               </button>
             </a>
           </div>
-
+              {/* Profile Image */}
+          <div className="col-12 col-md-4 text-center mb-4 mb-md-0 ">
+            <img
+              src="aswin.jpeg"
+              className="rounded-circle img-fluid border border-danger"
+              style={{ maxWidth: "250px" }}
+              alt="profile"
+            />
+          </div>
         </div>
       </div>
     </div>

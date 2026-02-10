@@ -49,7 +49,7 @@ function Project() {
         <div className="col-12 col-md-4 col-xxl-4">
           <div className="card rounded-3 bg-info ">
             <img className="rounded-top"
-              src="/Screenshot 2026-01-26 204601.png" alt="" />
+              src="/Screenshot 2026-02-10 150725.png" alt="" />
             <div className="card-body">
               <h5 className="card-title">Todo_list</h5>
               <h6 className="card-subtitle">website</h6>

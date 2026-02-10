@@ -3,7 +3,7 @@ import "./index.css";
 
 function Skills() {
   return (
-    <div className="sk bg-dark text-white py-5">
+    <div className=" bg-dark text-white w-100  py-5">
       <h1 className="text-center mb-5">Skills</h1>
 
       <div className="container-fluid text-center">
