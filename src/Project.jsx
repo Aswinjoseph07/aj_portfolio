@@ -28,17 +28,19 @@ function Project() {
 
         <div className="col-12 col-md-4 col-xxl-4">
           <div className="card rounded-3 bg-info ">
+            <div className="ratio ratio-16x9">
             <img className="rounded-top"
-              src="/Screenshot 2026-01-26 204601.png" alt="" />
+              src="/WhatsApp Image 2026-03-14 at 11.58.15 AM.jpeg" alt="" />
+            </div>
             <div className="card-body">
-              <h5 className="card-title">Instagram-Clone</h5>
-              <h6 className="card-subtitle">React-Project</h6>
+              <h5 className="card-title">student-acadmaic portal</h5>
+              <h6 className="card-subtitle">ReactNative-Project</h6>
               <p className="card-text">
-                The project is created using react js in my learning period and
-                 temporary backend as json file inspired by Instagram web page design
+               A full-stack academic management system that allows staff to manage student academic data 
+               and enables students to access their academic information through a mobile application.
               </p>
 
-        <a href="https://github.com/Aswinjoseph07/react-project" target="_blank" >
+        <a href="https://github.com/Aswinjoseph07/acadamic_portal_reactNative" target="_blank" >
        <button className="card btn btn-outline-primary">github link</button></a>
 
             </div>
