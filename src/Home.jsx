@@ -3,7 +3,7 @@ import "./index.css";
 
 function Home() {
   return (
-    <div className="bg-dark text-white min-vh-100 d-flex align-items-center">
+    <div className="bg-dark text-white d-flex align-items-center">
       <div className="container-fluid px-4 px-lg-5">
         <div className="row align-items-center justify-content-evenly gy-5">
 
