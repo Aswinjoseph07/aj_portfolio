@@ -55,7 +55,7 @@ function Home() {
             </div>
 
             {/* Resume Button */}
-            <a href="/ASWIN JOSEPH A (resume).pdf" download>
+            <a href="https://drive.google.com/file/d/1rd0cDpnCyR8Ry0vRHfV-Yt7ijtIWbOmN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <button className="btn btn-outline-success btn-lg">
                 RESUME
               </button>
